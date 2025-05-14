@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋 I'm Jang Jun-Hyeok.
 
 <!--
 **JJH090501/JJH090501** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
