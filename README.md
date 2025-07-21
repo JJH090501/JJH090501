@@ -43,7 +43,7 @@ Here are some ideas to get you started:
 <h3 align="center">📚 Studying 📚</h3>
 <div align="center">
   <img src="https://img.shields.io/badge/Kotlin-007ACC.svg?style=for-the-badge&logo=kotlin&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/Luvit-#00A2FF?style=for-the-badge&logo=luvit&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/Luvit-#00A2FF?style=for-the-badge&logo=lua&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/Swift-3578E5?style=for-the-badge&logo=swift&logoColor=white" />&nbsp
 </div>
 
@@ -57,7 +57,6 @@ Here are some ideas to get you started:
 </div>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/adobe%20photoshop-08253c.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=37abff" />&nbsp
   <img src="https://img.shields.io/badge/figma-F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />&nbsp
 </div>
 
