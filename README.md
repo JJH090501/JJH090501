@@ -45,6 +45,7 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Kotlin-007ACC?style=for-the-badge&logo=kotlin&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/Luvit-00A2FF?style=for-the-badge&logo=lua&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/Swift-3578E5?style=for-the-badge&logo=swift&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/RobloxStudio-000000?style=for-the-badge&logo=robloxstudio&logoColor=white" />&nbsp
 </div>
 
 <br>
@@ -77,3 +78,5 @@ Here are some ideas to get you started:
       src="https://img.shields.io/badge/seo17381738@dgsw.hs.kr-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
   </a>
 </div>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JJH090501&layout=compact)
