@@ -43,7 +43,7 @@ Here are some ideas to get you started:
 <h3 align="center">📚 Studying 📚</h3>
 <div align="center">
   <img src="https://img.shields.io/badge/Kotlin-007ACC?style=for-the-badge&logo=kotlin&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/Luvit-#00A2FF?style=for-the-badge&logo=lua&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/Luvit-00A2FF?style=for-the-badge&logo=lua&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/Swift-3578E5?style=for-the-badge&logo=swift&logoColor=white" />&nbsp
 </div>
 
