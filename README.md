@@ -29,13 +29,12 @@ Here are some ideas to get you started:
 <div align="center">
   <img src="https://img.shields.io/badge/lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/html5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/nginx-009639.svg?style=for-the-badge&logo=nginx3&logoColor=white" />&nbsp
 </div>
 
 <div align="center">
   <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=ffd35b" />&nbsp
   <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/css3-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/python-3776AB.svg?style=for-the-badge&logo=python&logoColor=white" />&nbsp
 </div>
 
@@ -48,7 +47,7 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Swift-3578E5?style=for-the-badge&logo=swift&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/RobloxStudio-000000?style=for-the-badge&logo=robloxstudio&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=20232a" />&nbsp
-  <img src="https://img.shields.io/badge/nodedotjs-5FA04E.svg?style=for-the-badge&logo=nodedotjs&logoColor=20232a" />&nbsp
+  <img src="https://img.shields.io/badge/nodejs-5FA04E.svg?style=for-the-badge&logo=nodejs&logoColor=20232a" />&nbsp
   <img src="https://img.shields.io/badge/android-3DDC84.svg?style=for-the-badge&logo=android&logoColor=20232a" />&nbsp
 </div>
 
