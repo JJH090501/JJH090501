@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 <div align="center">
   <img src="https://img.shields.io/badge/lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/nginx-009639.svg?style=for-the-badge&logo=nginx3&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/nginx-009639.svg?style=for-the-badge&logo=nginx&logoColor=white" />&nbsp
 </div>
 
 <div align="center">
@@ -47,7 +47,7 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Swift-3578E5?style=for-the-badge&logo=swift&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/RobloxStudio-000000?style=for-the-badge&logo=robloxstudio&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=20232a" />&nbsp
-  <img src="https://img.shields.io/badge/nodejs-5FA04E.svg?style=for-the-badge&logo=nodejs&logoColor=20232a" />&nbsp
+  <img src="https://img.shields.io/badge/nodejs-5FA04E.svg?style=for-the-badge&logo=nodedotjs&logoColor=20232a" />&nbsp
   <img src="https://img.shields.io/badge/android-3DDC84.svg?style=for-the-badge&logo=android&logoColor=20232a" />&nbsp
 </div>
 
