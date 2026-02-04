@@ -44,11 +44,8 @@ Here are some ideas to get you started:
 <div align="center">
   <img src="https://img.shields.io/badge/Kotlin-007ACC?style=for-the-badge&logo=kotlin&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/Luvit-00A2FF?style=for-the-badge&logo=lua&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/Swift-3578E5?style=for-the-badge&logo=swift&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/RobloxStudio-000000?style=for-the-badge&logo=robloxstudio&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=20232a" />&nbsp
-  <img src="https://img.shields.io/badge/nodejs-5FA04E.svg?style=for-the-badge&logo=nodedotjs&logoColor=20232a" />&nbsp
-  <img src="https://img.shields.io/badge/android-3DDC84.svg?style=for-the-badge&logo=android&logoColor=20232a" />&nbsp
 </div>
 
 <br>
@@ -60,8 +57,6 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Notion-F3F3F3.svg?style=for-the-badge&logo=notion&logoColor=black" />&nbsp
   <img src="https://img.shields.io/badge/intellijidea-000000.svg?style=for-the-badge&logo=intellijidea&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/rider-000000.svg?style=for-the-badge&logo=rider&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/androidstudio-3DDC84.svg?style=for-the-badge&logo=androidstudio&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/xcode-147EFB.svg?style=for-the-badge&logo=xcode&logoColor=white" />&nbsp
 </div>
 
 <div align="center">
@@ -90,4 +85,4 @@ Here are some ideas to get you started:
 
 
 
-[![JJH's Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JJH090501&layout=compact&theme=dracula)](https://github.com/JJH090501)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=JJH090501&theme=tokyonight)
