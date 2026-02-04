@@ -1,4 +1,4 @@
-## Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=waving&color=white&height=3&section=header&text=Hello_there!)
 
 <!--
 **JJH090501/JJH090501** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
