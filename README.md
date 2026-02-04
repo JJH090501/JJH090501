@@ -89,3 +89,4 @@ Here are some ideas to get you started:
 <br>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JJH090501&layout=compact)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=본인의ID&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
