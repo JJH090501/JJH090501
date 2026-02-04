@@ -89,4 +89,5 @@ Here are some ideas to get you started:
 <br>
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JJH090501&layout=compact&theme=tokyonight)
+
+[![JJH's Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JJH090501&layout=compact&theme=dracula)](https://github.com/JJH090501)
