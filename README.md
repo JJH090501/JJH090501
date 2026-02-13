@@ -44,7 +44,7 @@ Here are some ideas to get you started:
 
 <h3 align="center">🛠 Tools 🛠</h3>
 <div align="center">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=vscode,idea,pycahrm,webstorm,github,git&perline=5">
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=vscode,idea,pycharm,webstorm,github,git&perline=5">
 </div>
 
 
