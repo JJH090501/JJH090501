@@ -44,7 +44,8 @@ Here are some ideas to get you started:
 
 <h3 align="center">🛠 Tools 🛠</h3>
 <div align="center">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=vscode,intellijidea,github&perline=5">
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=vscode,idea,github&perline=5">
+  <img src="https://img.shields.io/badge/Geany-4F8FB3?style=for-the-badge&logo=geany&logoColor=white" />
 </div>
 
 
