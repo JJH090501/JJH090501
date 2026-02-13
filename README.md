@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 <!--내용 부분-->
 <h3 align="center">✨ Tech Stack ✨</h3>
 <div align="center">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=lua,nginx,spring&perline=5">
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=lua,nginx,spring,mysql&perline=5">
 </div>
 
   
@@ -37,15 +37,14 @@ Here are some ideas to get you started:
 
 <h3 align="center">📚 Studying 📚</h3>
 <div align="center">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=java,c,cpp,linux,docker&perline=5">
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=java,js,c,cpp,linux,docker&perline=5">
 </div>
 
 <br>
 
 <h3 align="center">🛠 Tools 🛠</h3>
 <div align="center">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=vscode,idea,github&perline=5">
-  <img src="https://img.shields.io/badge/Geany-4F8FB3?style=for-the-badge&logo=geany&logoColor=white" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=vscode,idea,pycahrm,webstorm,github,git&perline=5">
 </div>
 
 
