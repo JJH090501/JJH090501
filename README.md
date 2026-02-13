@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 <!--내용 부분-->
 <h3 align="center">✨ Tech Stack ✨</h3>
 <div align="center">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=lua,python,js,react,aws&perline=5">
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=lua,nginx,spring&perline=5">
 </div>
 
   
