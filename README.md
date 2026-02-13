@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 -->
 <div align=center><h1>About me</h1>
   <h1>" 세상을 더욱 편리하게 만드는 개발자 "</h1>
+  <h1>" An engineer that makes the world better "</h1>
 
   <br>
 
