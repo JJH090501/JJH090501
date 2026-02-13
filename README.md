@@ -37,24 +37,14 @@ Here are some ideas to get you started:
 
 <h3 align="center">📚 Studying 📚</h3>
 <div align="center">
-  <img src="https://img.shields.io/badge/Luvit-00A2FF?style=for-the-badge&logo=lua&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/RobloxStudio-000000?style=for-the-badge&logo=robloxstudio&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=20232a" />&nbsp
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=java,c,cpp,csharp&perline=5">
 </div>
 
 <br>
 
 <h3 align="center">🛠 Tools 🛠</h3>
 <div align="center">
-  <img src="https://img.shields.io/badge/git-F05033.svg?style=for-the-badge&logo=git&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/Notion-F3F3F3.svg?style=for-the-badge&logo=notion&logoColor=black" />&nbsp
-  <img src="https://img.shields.io/badge/intellijidea-000000.svg?style=for-the-badge&logo=intellijidea&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/rider-000000.svg?style=for-the-badge&logo=rider&logoColor=white" />&nbsp
-</div>
-
-<div align="center">
-  <img src="https://img.shields.io/badge/figma-F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />&nbsp
+  <img src="[https://img.shields.io/badge/git-F05033.svg?style=for-the-badge&logo=git&logoColor=white](https://go-skill-icons.vercel.app/api/icons?i=lua,nginx,spring&perline=5)">
 </div>
 
 <br>
