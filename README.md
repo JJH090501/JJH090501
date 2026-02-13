@@ -24,9 +24,9 @@ Here are some ideas to get you started:
   <h1>BSDC's GitHub Profile!</h1>
 </div>
 
-<div>
-  [![My Skills](https://go-skill-icons.vercel.app/api/icons?i=lua,python,js,react,aws&perline=5)](https://go-skill-icons.vercel.app)
-</div>
+
+[![My Skills](https://go-skill-icons.vercel.app/api/icons?i=lua,python,js,react,aws&perline=5)](https://go-skill-icons.vercel.app)
+
 
 <!--내용 부분-->
 <h3 align="center">✨ Tech Stack ✨</h3>
