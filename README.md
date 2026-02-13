@@ -37,23 +37,16 @@ Here are some ideas to get you started:
 
 <h3 align="center">📚 Studying 📚</h3>
 <div align="center">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=java,c,cpp,csharp&perline=5">
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=java,c,cpp,linux,docker&perline=5">
 </div>
 
 <br>
 
 <h3 align="center">🛠 Tools 🛠</h3>
 <div align="center">
-  <img src="[https://img.shields.io/badge/git-F05033.svg?style=for-the-badge&logo=git&logoColor=white](https://go-skill-icons.vercel.app/api/icons?i=lua,nginx,spring&perline=5)">
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=vscode,intellijidea,github&perline=5">
 </div>
 
-<br>
-
-<div align="center">
-  <img src="https://img.shields.io/badge/VSCode-2C2C32.svg?style=for-the-badge&logo=visual-studio-code&logoColor=22ABF3" />&nbsp
-  <img src="https://img.shields.io/badge/jupyter-2C2C32.svg?style=for-the-badge&logo=jupyter&logoColor=F37726" />&nbsp
-<!--   <img src="https://img.shields.io/badge/Colab-2C2C32.svg?style=for-the-badge&logo=googlecolab&logoColor=F9AB00" />&nbsp -->
-</div>
 
 <br>
 
