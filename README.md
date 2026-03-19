@@ -63,5 +63,9 @@ Here are some ideas to get you started:
 <br>
 
 
-### 📊 Github Stats
+### 📊 Most Used Language
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=JJH090501&theme=tokyonight)
+
+## GitHub Stats
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JJH090501)](https://github.com/JJH090501/github-readme-stats)
+
