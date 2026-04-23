@@ -50,6 +50,18 @@ Here are some ideas to get you started:
   <img src="https://go-skill-icons.vercel.app/api/icons?i=vscode,idea,pycharm,webstorm,github,git&perline=5">
 </div>
 
+<br>
+<h3 align="center">🌙 Lua Ecosystem & Game Engines 🌙</h3>
+<div align="center">
+  <img src="https://img.shields.io/badge/OpenResty-16214D?style=for-the-badge&logo=nginx&logoColor=white" />
+  <img src="https://img.shields.io/badge/Lapis-313233?style=for-the-badge&logo=lua&logoColor=000080" />
+  <img src="https://img.shields.io/badge/Luvit-3F2511?style=for-the-badge&logo=lua&logoColor=white" />
+  <br/>
+  <img src="https://img.shields.io/badge/Solar2D-F7931E?style=for-the-badge&logo=solar2d&logoColor=white" />
+  <img src="https://img.shields.io/badge/Love2D-E61875?style=for-the-badge&logo=love&logoColor=white" />
+  <img src="https://img.shields.io/badge/Roblox_Studio-00A2FF?style=for-the-badge&logo=robloxstudio&logoColor=white" />
+</div>
+
 
 <br>
 
