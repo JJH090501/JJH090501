@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 <h3 align="center">✨ Tech Stack ✨</h3>
 
 <div align="center">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=lua,nginx,spring,mysql&perline=5">
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=lua,nginx,spring,mysql,postgresql&perline=5">
 </div>
 
   
