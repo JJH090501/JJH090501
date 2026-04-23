@@ -27,10 +27,9 @@ Here are some ideas to get you started:
 </div>
 
 
-<!--내용 부분-->
 <h3 align="center">✨ Tech Stack ✨</h3>
 <div align="center">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=lua,nginx,spring,mysql&perline=5">
+  <img src="https://skillicons.dev/icons?i=lua,nginx,openresty,postgres,mysql,spring,linux,docker" />
 </div>
 
   
