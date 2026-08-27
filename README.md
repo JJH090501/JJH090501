@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1>" An engineer that makes the world better and faster "</h1>
+<h1>👋 Hi I'm BSDC</h1>
 
   <br>
 
