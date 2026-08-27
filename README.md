@@ -31,16 +31,7 @@ Here are some ideas to get you started:
 <h3 align="center">✨ Tech Stack ✨</h3>
 
 <div align="center">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=lua,nginx,spring,mysql,postgresql&perline=5">
-</div>
-
-  
-
-<br>
-
-<h3 align="center">📚 Studying 📚</h3>
-<div align="center">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=java,js,c,cpp,linux,docker&perline=5">
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=lua,nginx,java,c,cpp,ts,react,docker&perline=5">
 </div>
 
 <br>
