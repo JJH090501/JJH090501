@@ -19,6 +19,7 @@ Here are some ideas to get you started:
 <p>I'm Network Engineer and Backend&Game Dev! I'm using Lua and C/C++ for main language. and also I use luau and JS/TS.
 My dream is making the world better, faster with my stacks. </p>
 <br>
+---
 
 <!--내용 부분-->
 
