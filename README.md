@@ -1,4 +1,3 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=00b4d8&height=200&section=header&text=Engineering%20Lua!&fontSize=70)
 
 <!--
 **JJH090501/JJH090501** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,8 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<div align=center><h1>About me</h1>
-  <h1>" An engineer that makes the world better "</h1>
+<h1>" An engineer that makes the world better and faster "</h1>
 
   <br>
 
