@@ -15,12 +15,10 @@ Here are some ideas to get you started:
 -->
 <h1>👋 Hi I'm BSDC</h1>
 
-  <br>
-
-<!--타이틀 부분-->
-<div align="center">
-  <h1>BSDC's GitHub Profile!</h1>
-</div>
+<br>
+I'm Network Engineer and Backend&Game Dev! I'm using Lua and C/C++ for main language. and also I use luau and JS/TS.
+My dream is making the world better, faster with my stacks. 
+<br>
 
 <!--내용 부분-->
 
