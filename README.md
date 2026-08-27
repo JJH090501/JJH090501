@@ -15,8 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div align=center><h1>About me</h1>
-  <h1>" 세상을 더욱 편리하게 만드는 개발자 "</h1>
-  <p> Lua, C, C++ 을 적절히 이용하여 더욱 빠르고 간편한 시스템을 구축하겠습니다. </p>
   <h1>" An engineer that makes the world better "</h1>
 
   <br>
