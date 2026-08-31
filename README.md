@@ -37,7 +37,7 @@
 
 ### Backend & Infrastructure
 
-<img src="https://go-skill-icons.vercel.app/api/icons?i=nginx,haproxy,docker,postgresql,redis,cmake&perline=5">
+<img src="https://go-skill-icons.vercel.app/api/icons?i=nginx,docker,postgresql,redis,cmake&perline=5">
 
 <br><br>
 
