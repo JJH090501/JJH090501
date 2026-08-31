@@ -31,13 +31,13 @@
 
 ### Languages
 
-<img src="https://go-skill-icons.vercel.app/api/icons?i=lua,teal,c,cpp,java,typescript,javascript,luau&perline=4">
+<img src="https://go-skill-icons.vercel.app/api/icons?i=lua,c,cpp,java,typescript,javascript,luau&perline=4">
 
 <br><br>
 
 ### Backend & Infrastructure
 
-<img src="https://go-skill-icons.vercel.app/api/icons?i=nginx,openresty,docker,postgresql,redis,cmake&perline=5">
+<img src="https://go-skill-icons.vercel.app/api/icons?i=nginx,haproxy,docker,postgresql,redis,cmake&perline=5">
 
 <br><br>
 
