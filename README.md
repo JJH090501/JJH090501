@@ -31,7 +31,7 @@
 
 ### Languages
 
-<img src="https://go-skill-icons.vercel.app/api/icons?i=lua,c,cpp,java,typescript,javascript,luau&perline=4">
+<img src="https://go-skill-icons.vercel.app/api/icons?i=lua,c,cpp,java,typescript,javascript,luau,rust&perline=4">
 
 <br><br>
 
