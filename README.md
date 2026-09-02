@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  Building fast, reliable and scalable systems with Lua, C/C++, and modern backend technologies.
+  Building fast, reliable and scalable systems with Lua, C/C++, Rust and modern backend technologies.
 </p>
 
 <br>
