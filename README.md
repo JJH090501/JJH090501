@@ -43,7 +43,7 @@
 
 ### Frontend & Game Development
 
-<img src="https://go-skill-icons.vercel.app/api/icons?i=react,vite,robloxstudio,love2d,solar2d&perline=5">
+<img src="https://go-skill-icons.vercel.app/api/icons?i=nextjs,react,vite,robloxstudio,love2d,solar2d&perline=5">
 
 </div>
 
