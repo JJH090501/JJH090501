@@ -1,145 +1,288 @@
-<h1 align="center">👋 Hi, I'm BSDC</h1>
-
-<p align="center">
-  <b>Network Engineer · Backend Developer · Game Developer</b>
-</p>
-
-<p align="center">
-  Building fast, reliable and scalable systems with Lua, C/C++, Rust and modern backend technologies.
-</p>
-
-<br>
-
-<h2 align="center">🚀 About Me</h2>
-
-<p align="center">
-  I'm a Network Engineer and Backend & Game Developer.<br>
-  My main languages are <b>Lua</b> and <b>C/C++</b>, and I also work with
-  <b>Teal, Luau, TypeScript, Java</b> and more.
-</p>
-
-<p align="center">
-  I enjoy working close to the runtime, networking layer, infrastructure,
-  and developer tooling.
-</p>
-
-<br>
-
-<h2 align="center">⚡ Tech Stack</h2>
-
 <div align="center">
+
+# Hi, I'm Junhyeok 👋
+
+### Lua Developer · Network Engineer · Systems Enthusiast
+
+**Building things closer to the network, runtime, and system.**
+
+<br>
+
+<img src="https://skillicons.dev/icons?i=lua,rust,c,cpp,ts,js,java" />
+
+<br><br>
+
+![Profile Views](https://komarev.com/ghpvc/?username=JJH090501\&style=for-the-badge)
+
+</div>
+
+---
+
+## 🚀 About Me
+
+```lua
+local junhyeok = {
+    primary_language = "Lua",
+
+    interests = {
+        "Network Engineering",
+        "Backend",
+        "Systems Programming",
+        "Reverse Proxy",
+        "Runtime & Framework Design",
+        "Open Source"
+    },
+
+    currently_learning = {
+        "Rust",
+        "C / C++",
+        "TypeScript"
+    },
+
+    favorite_stack = {
+        "Lua",
+        "OpenResty",
+        "HAProxy",
+        "Rust",
+        "PostgreSQL"
+    }
+}
+
+return junhyeok
+```
+
+I love understanding **how things work underneath**.
+
+Instead of only using frameworks and tools, I enjoy asking:
+
+> How was this built?
+> Why was it designed this way?
+> Can I build something like this myself?
+
+That curiosity led me from application development into **network infrastructure, systems programming, framework design, and open source.**
+
+---
+
+## 🌙 Lua
+
+Lua is my primary language and the center of many of my projects.
+
+I enjoy Lua not only as a scripting language, but also as an **embeddable language for building extensible systems**.
+
+I work with:
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=lua" height="55"/>
+</p>
+
+* Lua
+* LuaJIT
+* Luau
+* Teal
+* OpenResty
+* Luvit
+* Lapis
+
+---
+
+## ⚙️ Languages & Tools
 
 ### Languages
 
-<img src="https://go-skill-icons.vercel.app/api/icons?i=lua,c,cpp,java,typescript,luau,rust,zig&perline=4">
+<p>
+  <img src="https://skillicons.dev/icons?i=lua,rust,c,cpp,ts,js,java" />
+</p>
 
-<br><br>
+### Backend & Web
 
-### Backend & Infrastructure
+<p>
+  <img src="https://skillicons.dev/icons?i=spring,nestjs,nextjs,react,nodejs" />
+</p>
 
-<img src="https://go-skill-icons.vercel.app/api/icons?i=nginx,docker,postgresql,redis,cmake&perline=5">
+### Infrastructure
 
-<br><br>
+<p>
+  <img src="https://skillicons.dev/icons?i=nginx,docker,linux,gcp,git,github" />
+</p>
 
-### Frontend & Game Development
+**Also working with**
 
-<img src="https://go-skill-icons.vercel.app/api/icons?i=nextjs,react,vite,robloxstudio,love2d,solar2d&perline=5">
+`OpenResty` · `HAProxy` · `Envoy` · `Luvit` · `Lapis`
 
-</div>
+### Databases
 
-<br>
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis" />
+</p>
 
-<h2 align="center">🌙 Lua Ecosystem</h2>
+---
+
+# 🛰️ Featured Projects
+
+## Aether Framework
+
+> A modular Lua-centric framework for building backend servers and proxies.
+
+Aether explores a different approach to server architecture:
+
+Instead of forcing developers into one fixed runtime or architecture, Aether aims to provide a core where functionality can be extended through modular components.
+
+Modules can provide features such as:
+
+* Routing
+* ORM
+* Authentication
+* Cryptography
+* Networking engines
+* Proxy functionality
+
+The goal is to let developers assemble their own backend or proxy environment around a lightweight Lua-oriented core.
+
+**Tech**
+
+`Lua` · `C/C++` · `Rust` · `libuv` · `cqueues`
+
+---
+
+## 🌐 L7 Proxy
+
+A Layer 7 proxy project built around **OpenResty and Lua**, with native components where lower-level performance or functionality is useful.
+
+```text
+Client
+   │
+   ▼
+TLS Proxy
+   │
+   ▼
+HAProxy
+   │
+   ▼
+OpenResty L7 Proxy
+   │
+   ├── Validation
+   ├── Authentication
+   ├── Rate Limiting
+   └── Routing
+         │
+         ▼
+      Services
+```
+
+**Tech**
+
+`OpenResty` · `LuaJIT` · `Rust` · `HAProxy` · `Nginx`
+
+---
+
+# 🌍 Open Source
+
+## Teal
+
+I use **Teal**, a typed language that compiles to Lua.
+
+While using Teal, I encountered a compatibility issue with a newer Lua version.
+
+Instead of waiting for someone else to fix it, I investigated the problem, implemented a fix, and submitted a pull request.
+
+That became one of my open-source contributions.
+
+> **If the tool you use has a problem, you can help improve the tool itself.**
+
+That's one of the things I enjoy most about open source.
+
+---
+
+# 🧠 What I'm Interested In
+
+```text
+Lua Runtime & Embedding
+       │
+       ├── LuaJIT
+       ├── OpenResty
+       └── Native FFI
+       
+Network Infrastructure
+       │
+       ├── Reverse Proxy
+       ├── Load Balancing
+       ├── TLS
+       └── L7 Routing
+       
+Systems Programming
+       │
+       ├── Rust
+       ├── C
+       └── C++
+       
+Framework Design
+       │
+       ├── Aether
+       ├── Plugin Architecture
+       └── Modular Runtime
+```
+
+---
+
+## 📊 GitHub Stats
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" />
-<img src="https://img.shields.io/badge/Teal-0B5FFF?style=for-the-badge&logo=lua&logoColor=white" />
-<img src="https://img.shields.io/badge/LuaJIT-2C2D72?style=for-the-badge&logo=lua&logoColor=white" />
-<img src="https://img.shields.io/badge/LuaRocks-2C2D72?style=for-the-badge&logo=lua&logoColor=white" />
+<img
+  height="170"
+  src="https://github-readme-stats.vercel.app/api?username=JJH090501&show_icons=true&theme=tokyonight&hide_border=true"
+/>
 
-<br/>
-
-<img src="https://img.shields.io/badge/OpenResty-16214D?style=for-the-badge&logo=nginx&logoColor=white" />
-<img src="https://img.shields.io/badge/Lapis-313233?style=for-the-badge&logo=lua&logoColor=white" />
-<img src="https://img.shields.io/badge/Luvit-3F2511?style=for-the-badge&logo=lua&logoColor=white" />
-
-<br/>
-
-<img src="https://img.shields.io/badge/Luau-00A2FF?style=for-the-badge&logo=roblox&logoColor=white" />
-<img src="https://img.shields.io/badge/LÖVE-000000?style=for-the-badge&logo=love&logoColor=white" />
-<img src="https://img.shields.io/badge/Solar2D-F7931E?style=for-the-badge&logo=solar2d&logoColor=white" />
+<img
+  height="170"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=JJH090501&layout=compact&theme=tokyonight&hide_border=true"
+/>
 
 </div>
 
-<br>
+---
 
-<h2 align="center">🛠 Tools</h2>
-
-<div align="center">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=github,git,vscode,idea,webstorm,clion&perline=6">
-</div>
-
-<br>
-
-<h2 align="center">🔭 Currently Working On</h2>
+## 🔥 Contribution Streak
 
 <div align="center">
 
-**Aether Framework**
-
-A modern Lua web framework focused on developer experience,
-dependency injection, modular architecture and high-performance networking.
-
-<br>
-
-**Open Source**
-
-Contributing to the Lua ecosystem, including projects such as
-LuaRocks and Teal.
+<img
+  src="https://streak-stats.demolab.com/?user=JJH090501&theme=tokyonight&hide_border=true"
+/>
 
 </div>
 
-<br>
+---
 
-<h2 align="center">💻 Interests</h2>
+## 🏆 GitHub Trophies
 
 <div align="center">
 
-🌐 Networking & Infrastructure  
-<br>
-⚡ High Performance Backend  
-<br>
-🌙 Lua Ecosystem & Runtime  
-<br>
-🧩 Compiler & Language Tooling  
-<br>
-🎮 Game Development  
-<br>
-🔧 Open Source
+<img
+  src="https://github-profile-trophy.vercel.app/?username=JJH090501&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4"
+/>
 
 </div>
 
-<br>
+---
 
-<h2 align="center">📊 GitHub Stats</h2>
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=JJH090501&theme=tokyonight" />
-
-<br><br>
-
-<img src="https://github-readme-stats.vercel.app/api?username=JJH090501&show_icons=true&theme=tokyonight&hide_border=true" />
-
-</div>
-
-<br>
-
-<h2 align="center">🌌 Contribution Graph</h2>
+## 🐍 Contributions
 
 <div align="center">
 
-<img src="./profile-3d-contrib/profile-night-rainbow.svg">
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/JJH090501/JJH090501/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/JJH090501/JJH090501/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="GitHub contribution snake"
+    src="https://raw.githubusercontent.com/JJH090501/JJH090501/output/github-contribution-grid-snake.svg"
+  />
+</picture>
 
 </div>
