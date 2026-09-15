@@ -41,5 +41,13 @@ jobs:
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
           git add profile/*.svg
-          git commit -m "chore: update GitHub stats" || exit 0
-          git push
+
+          if git diff --cached --quiet; then
+            echo "No stats changes"
+            exit 0
+          fi
+
+          git commit -m "chore: update GitHub stats"
+
+          git pull --rebase origin main
+          git push origin main
