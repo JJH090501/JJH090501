@@ -2,50 +2,50 @@
 
 # Hi, I'm Junhyeok 👋
 
-### Lua Developer · Network Engineer · Systems Enthusiast
+### 🌙 Lua Developer · ⚙️ Systems · 🌐 Network
 
-**Building things closer to the network, runtime, and system.**
+<img src="https://skillicons.dev/icons?i=lua,rust,zig,c,cpp,ts,js,java" />
 
-<br>
+<br/>
 
-<img src="https://skillicons.dev/icons?i=lua,rust,c,cpp,ts,js,java" />
-
-<br><br>
-
-![Profile Views](https://komarev.com/ghpvc/?username=JJH090501&style=for-the-badge)
+<img src="https://komarev.com/ghpvc/?username=JJH090501&style=for-the-badge" />
 
 </div>
 
 ---
 
-## 🚀 About Me
+## 👨‍💻 About Me
 
 ```lua
 local junhyeok = {
-    primary_language = "Lua",
+    role = {
+        "Lua Developer",
+        "Network Engineer",
+        "Systems Enthusiast"
+    },
+
+    languages = {
+        "Lua",
+        "Luau",
+        "Rust",
+        "Zig",
+        "C",
+        "C++",
+        "TypeScript",
+        "JavaScript",
+        "Java"
+    },
 
     interests = {
         "Network Engineering",
-        "Backend",
-        "Systems Programming",
         "Reverse Proxy",
-        "Runtime & Framework Design",
+        "Systems Programming",
+        "Runtime Design",
+        "Backend Architecture",
         "Open Source"
     },
 
-    currently_learning = {
-        "Rust",
-        "C / C++",
-        "TypeScript"
-    },
-
-    favorite_stack = {
-        "Lua",
-        "OpenResty",
-        "HAProxy",
-        "Rust",
-        "PostgreSQL"
-    }
+    philosophy = "Don't just use it. Understand how it works."
 }
 
 return junhyeok
@@ -92,7 +92,7 @@ I work with:
 ### Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=lua,rust,c,cpp,ts,js,java" />
+  <img src="https://skillicons.dev/icons?i=lua,rust,zig,c,cpp,ts,js,java" />
 </p>
 
 ### Backend & Web
@@ -142,13 +142,13 @@ The goal is to let developers assemble their own backend or proxy environment ar
 
 **Tech**
 
-`Lua` · `C/C++` · `Rust` · `libuv` · `cqueues`
+`Lua` · `C/C++` · `Rust` · `Zig` · `libuv` · `cqueues`
 
 ---
 
 ## 🌐 L7 Proxy
 
-A Layer 7 proxy project built around **OpenResty and Lua**, with native components where lower-level performance or functionality is useful.
+A Layer 7 proxy project built around **OpenResty and Lua**, with Rust and Zig native components where lower-level performance or functionality is useful.
 
 ```text
 Client
@@ -162,18 +162,25 @@ HAProxy
    ▼
 OpenResty L7 Proxy
    │
-   ├── Validation
-   ├── Authentication
-   ├── Rate Limiting
-   └── Routing
-         │
-         ▼
-      Services
+   ├── Lua / LuaJIT
+   │     ├── Validation
+   │     ├── Authentication
+   │     ├── Rate Limiting
+   │     └── Routing
+   │
+   ├── Rust
+   │     └── Native / Performance Components
+   │
+   └── Zig
+         └── Low-Level / Systems Components
+             │
+             ▼
+          Services
 ```
 
 **Tech**
 
-`OpenResty` · `LuaJIT` · `Rust` · `HAProxy` · `Nginx`
+`OpenResty` · `LuaJIT` · `Rust` · `Zig` · `C/C++` · `HAProxy` · `Nginx`
 
 ---
 
@@ -214,6 +221,7 @@ Network Infrastructure
 Systems Programming
        │
        ├── Rust
+       ├── Zig
        ├── C
        └── C++
 
