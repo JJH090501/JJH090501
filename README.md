@@ -242,8 +242,8 @@ Framework Design
 <div align="center">
 
 <img
-  src="https://streak-stats.demolab.com?user=JJH090501&theme=tokyonight&hide_border=true"
-  alt="GitHub Streak"
+  src="https://streak-stats.demolab.com?user=JJH090501&theme=transparent&hide_border=true&background=0D1117&ring=000080&fire=4F6BFF&currStreakLabel=4F6BFF&sideLabels=7D8CFF&dates=8B949E&currStreakNum=FFFFFF&sideNums=FFFFFF"
+  alt="Junhyeok's GitHub Streak"
 />
 
 </div>
