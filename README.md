@@ -12,7 +12,7 @@
 
 <br><br>
 
-![Profile Views](https://komarev.com/ghpvc/?username=JJH090501\&style=for-the-badge)
+![Profile Views](https://komarev.com/ghpvc/?username=JJH090501&style=for-the-badge)
 
 </div>
 
@@ -55,8 +55,8 @@ I love understanding **how things work underneath**.
 
 Instead of only using frameworks and tools, I enjoy asking:
 
-> How was this built?
-> Why was it designed this way?
+> How was this built?  
+> Why was it designed this way?  
 > Can I build something like this myself?
 
 That curiosity led me from application development into **network infrastructure, systems programming, framework design, and open source.**
@@ -71,17 +71,19 @@ I enjoy Lua not only as a scripting language, but also as an **embeddable langua
 
 I work with:
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=lua" height="55"/>
-</p>
+<div align="center">
 
-* Lua
-* LuaJIT
-* Luau
-* Teal
-* OpenResty
-* Luvit
-* Lapis
+<img src="https://skillicons.dev/icons?i=lua" height="55" />
+
+</div>
+
+- Lua
+- LuaJIT
+- Luau
+- Teal
+- OpenResty
+- Luvit
+- Lapis
 
 ---
 
@@ -119,22 +121,22 @@ I work with:
 
 # 🛰️ Featured Projects
 
-## Aether Framework
+## 🌙 Aether Framework
 
 > A modular Lua-centric framework for building backend servers and proxies.
 
-Aether explores a different approach to server architecture:
+Aether explores a different approach to server architecture.
 
 Instead of forcing developers into one fixed runtime or architecture, Aether aims to provide a core where functionality can be extended through modular components.
 
 Modules can provide features such as:
 
-* Routing
-* ORM
-* Authentication
-* Cryptography
-* Networking engines
-* Proxy functionality
+- Routing
+- ORM
+- Authentication
+- Cryptography
+- Networking engines
+- Proxy functionality
 
 The goal is to let developers assemble their own backend or proxy environment around a lightweight Lua-oriented core.
 
@@ -177,7 +179,7 @@ OpenResty L7 Proxy
 
 # 🌍 Open Source
 
-## Teal
+## 💙 Teal
 
 I use **Teal**, a typed language that compiles to Lua.
 
@@ -201,20 +203,20 @@ Lua Runtime & Embedding
        ├── LuaJIT
        ├── OpenResty
        └── Native FFI
-       
+
 Network Infrastructure
        │
        ├── Reverse Proxy
        ├── Load Balancing
        ├── TLS
        └── L7 Routing
-       
+
 Systems Programming
        │
        ├── Rust
        ├── C
        └── C++
-       
+
 Framework Design
        │
        ├── Aether
@@ -228,15 +230,8 @@ Framework Design
 
 <div align="center">
 
-<img
-  height="170"
-  src="https://github-readme-stats.vercel.app/api?username=JJH090501&show_icons=true&theme=tokyonight&hide_border=true"
-/>
-
-<img
-  height="170"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=JJH090501&layout=compact&theme=tokyonight&hide_border=true"
-/>
+<img height="170" src="./profile/stats.svg" alt="GitHub Stats" />
+<img height="170" src="./profile/top-langs.svg" alt="Top Languages" />
 
 </div>
 
@@ -247,19 +242,8 @@ Framework Design
 <div align="center">
 
 <img
-  src="https://streak-stats.demolab.com/?user=JJH090501&theme=tokyonight&hide_border=true"
-/>
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img
-  src="https://github-profile-trophy.vercel.app/?username=JJH090501&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4"
+  src="https://streak-stats.demolab.com?user=JJH090501&theme=tokyonight&hide_border=true"
+  alt="GitHub Streak"
 />
 
 </div>
@@ -284,5 +268,15 @@ Framework Design
     src="https://raw.githubusercontent.com/JJH090501/JJH090501/output/github-contribution-grid-snake.svg"
   />
 </picture>
+
+</div>
+
+---
+
+<div align="center">
+
+### 🌙 Lua · ⚙️ Systems · 🌐 Network
+
+**Don't just use it. Understand how it works.**
 
 </div>
