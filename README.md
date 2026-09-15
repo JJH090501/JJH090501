@@ -264,7 +264,7 @@ Framework Design
     srcset="https://raw.githubusercontent.com/JJH090501/JJH090501/output/github-contribution-grid-snake.svg"
   />
   <img
-    alt="GitHub contribution snake"
+    alt="GitHub Contribution Snake"
     src="https://raw.githubusercontent.com/JJH090501/JJH090501/output/github-contribution-grid-snake.svg"
   />
 </picture>
